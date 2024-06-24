@@ -1,0 +1,25 @@
+:root{
+  margin: 0px;
+  padding:0px,
+}
+
+.myform{
+  // border: 1px solid red;
+  position: absolute;
+  display: flex;
+  margin-left: 550px;
+}
+.elements{
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  margin-left: 70px;
+
+}
+mat-form-field{
+  margin: 10px;
+  justify-content: center;
+}
+mat-spinner{
+margin-left: 100px;
+}
